@@ -1,0 +1,2 @@
+# YLNU_MC201_HX_determinant
+计算二阶和三阶行列式以及正负对角线
